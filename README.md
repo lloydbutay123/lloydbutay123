@@ -6,14 +6,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/317wkjulcwkryfe4zoc5qldjnrem">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317wkjulcwkryfe4zoc5qldjnrem&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="typescript logo"  />
