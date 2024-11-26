@@ -78,6 +78,7 @@
 </div>
 
 ###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/lloydbutay123/lloydbutay123/output/snake.svg" alt="Snake animation" />
